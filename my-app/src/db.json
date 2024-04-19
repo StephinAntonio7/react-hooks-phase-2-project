@@ -1,0 +1,176 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "genre": "Rap/Hip-Hop",
+      "description": [
+        "Like That: Metro Boomin & Future",
+        "First Person Shooter: Drake",
+        "Lets Go: Key Glock",
+        "CARNIVAL: Kanye West & Ty Dolla $ign",
+        "Sprinter: Dave & Central Cee",
+        "Fisherrr: Cash Cobain",
+        "3001: J Cole",
+        "redrum: 21 Savage"
+      ],
+      "vibe": "Party",
+      "image_url": "https://images.macrumors.com/t/cGrG0lyY7Ngr_i4NNgLIA9kY5Xk=/800x0/article-new/2019/07/rap-life.jpg?lossy",
+      "likes": 4,
+      "link": "https://soundcloud.com/music-charts-us/sets/hip-hop"
+    },
+    {
+      "id": "2",
+      "genre": "R&B",
+      "description": [
+        "On My Mama: Victoria Monet",
+        "act ii: date @ 8: 4batz & Drake",
+        "Lose My Mind: PARTYNEXTDOOR",
+        "Snooze: SZA",
+        "Sensational: Chris Brown",
+        "CALYPSO: Bryson Tiller",
+        "After Hours: Kehlani",
+        "Double Back: Coco Jones"
+      ],
+      "vibe": "Chill",
+      "image_url": "https://pbs.twimg.com/media/EVwGcK7WoAEioXi.jpg:large",
+      "likes": 10,
+      "link": "https://soundcloud.com/music-charts-us/sets/r-b"
+    },
+    {
+      "id": "3",
+      "genre": "Today's Hits",
+      "description": [
+        "II MOST WANTED: Beyonce & Miley Cyrus",
+        "I LUVE IT: Camilia Cabello",
+        "we can't be friends:Ariana Grande",
+        "Get It Sexyy: Sexyy Red",
+        "Lose Control:Teddy Swims",
+        "Beautiful Things: Benson Boone",
+        "Type Shit: Metro Boomin & Future",
+        "Too Sweet: Hozier"
+      ],
+      "vibe": "Party",
+      "image_url": "https://pbs.twimg.com/media/E4s3meRXoAIP4nB?format=jpg&name=small",
+      "likes": 9,
+      "link": "https://soundcloud.com/music-charts-us/sets/new-hot"
+    },
+    {
+      "id": "4",
+      "genre": "Pop",
+      "description": [
+        "Cruel Summer: Taylor Swift",
+        "greedy: Tate McRae",
+        "How Bad Do You Want It: Crystal Shawanda",
+        "Single Soon: Selena Gomez",
+        "Used To Be Young: Miley Cyrus",
+        "Lipstick: Charlie Puth",
+        "Pretty Girls: Renee Rapp",
+        "Anti-Hero: Taylor Shift"
+      ],
+      "vibe": "Dance",
+      "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb81b02b2a589b6fd6284c1054",
+      "likes": 0,
+      "link": "https://soundcloud.com/music-charts-us/sets/pop"
+    },
+    {
+      "id": "5",
+      "genre": "Latin/Reggaeton",
+      "description": [
+        "Monaco: Bad Bunny",
+        "Loco Contigo: J Balvin",
+        "Contra La Pared: Sean Paul",
+        "Bajo Cero: Sky Rompiendo",
+        "Me Porto Bonito: Bad Bunny",
+        "PROVENZA: KAROL G",
+        "Columbia: Quevedo",
+        "3 Am: Eladio Carrion",
+        "Vista Al Mar: Quevedo"
+      ],
+      "vibe": "Party",
+      "image_url": "https://i.scdn.co/image/ab67706c0000da84f2d1df45015adf86f5775e92",
+      "likes": 0,
+      "link": "https://soundcloud.com/music-charts-us/sets/latin"
+    },
+    {
+      "id": "6",
+      "genre": "Afro Beats",
+      "description": [
+        "WOTOWOTO SEASONING: ODUMODUBLVCK",
+        "DND: Rema",
+        "22: JayO",
+        "Soweto: Victony",
+        "Holy Ghost: Omah Lay",
+        "Ampiano: Asake",
+        "Elon Musk: Shallipopi",
+        "UNAVAILABLE: Davido"
+      ],
+      "vibe": "Dance",
+      "image_url": "https://i0.wp.com/www.damusichits.com/wp-content/uploads/2019/09/Afrobeats-Hits.jpeg?fit=500%2C500&ssl=1",
+      "likes": 0,
+      "link": "https://soundcloud.com/user-678497584/sets/afrobeat-all-stars-playlist"
+    },
+    {
+      "id": "7",
+      "genre": "Fitness",
+      "description": [
+        "Keep It Up: Good Neighbors",
+        "Lil Boo Thang: Paul Russell",
+        "Lovin On Me: Jack Harlow",
+        "Lead Me On: FLETCHER",
+        "Strangers: Kenya Grace",
+        "Beautiful Things: Benson Boone",
+        "Summer: Calvin Harris",
+        "Words: Alesso & Zara Larsson"
+      ],
+      "vibe": "Fitness",
+      "image_url": "https://pbs.twimg.com/media/ECgbJuzW4AIdZml.jpg",
+      "likes": 0,
+      "link": "https://soundcloud.com/lovestylerecords/sets/workout-music-2023-gym-music"
+    },
+    {
+      "id": "8",
+      "genre": "90's Hits",
+      "description": [
+        "You Make Me Wanna: Usher",
+        "One In A Million: Aaliyah",
+        "Say My Name: Destiny's Child",
+        "Return of the Mack",
+        "No Diggity: Blackstreet",
+        "This Is How We Do it",
+        "Fantasy: Maraiah Carey",
+        "Doo Wop: Lauryn Hill"
+      ],
+      "vibe": "Chill",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oCXMoFR1pHw72QEFp8pYJyczqs3DECj8eNmirbLimA&s",
+      "likes": 0,
+      "link": "https://soundcloud.com/woodnation16/sets/r-b-classics-90s-2000s-best"
+    },
+    {
+      "id": "9",
+      "genre": "EDM",
+      "description": [
+        "I Haven't Felt This Way: Nicole Moudaber",
+        "Get Stupid: Joshwa",
+        "Concentrate: Paul Oakenfold",
+        "Ryde or Die Anthem: Lauren Lane",
+        "Nostalgia: PNAU",
+        "Addicted: ZERB",
+        "Roar: Charlotte de Witte",
+        "Waves: Zeds Dead"
+      ],
+      "vibe": "Dance",
+      "image_url": "https://pbs.twimg.com/media/E0OVa9aWEAAl3jH?format=jpg&name=small",
+      "likes": 0,
+      "link": "https://soundcloud.com/music-charts-us/sets/electronic"
+    },
+    {
+      "id": "3a8d",
+      "genre": "Pop",
+      "description": "Dove's Cry: Prince",
+      "vibe": "Party",
+      "image_url": "https://mus-album.org/uploads/posts/2021-06/1622540407_001-2.jpg",
+      "link": ""
+    }
+  ],
+  "favorites": []
+}

@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Fauna+One');
+
+body {
+  background: url('/Users/Stephin/Desktop/Development/code/phase-2/react-hooks-phase-2-project/my-app/public/IMG_2069.JPG');
+  margin: 0;
+  /* font-family: 'Permanent Marker', sans-serif; */
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  text-align: center;
+  background-size: cover;
+  /* background-position: center; */
+  background-color: #d6cccc
+}
+
+h1, h2 {
+  font-family: 'Permanent Marker';
+}
+
+.home-page {
+  font-family: 'Fauna One'; 
+  flex-wrap: 50%;
+  margin-left: 60px;
+  color: white
+}
+
+.NavLinks {
+  font-family: 'Bungee Spice';
+  font-size: x-large;
+}
+
+.home-buttons {
+  border-radius: 50px;
+  height: 50px;
+  width: 100px;
+  /* border: 10px solid; */
+}
+
+.list-item {
+  text-align: left;
+  list-style-position: outside;
+}
+
+.favorites-page {
+  border-top-style: center;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.grid {
+  display: grid;
+}
+
+.with-sidebar {
+  grid-template-columns: 3fr 1fr;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.playlist-item {
+  border: solid black 2px;
+  box-shadow: 3px 5px #222A;
+  width: 300px;
+  background-color: white;
+}
+
+.playlist-item img {
+  width: 100%;
+}
+
+.playlist-form {
+  text-align: left;
+}
+
+.playlist-form input, .playlist-form label {
+  display: block;
+  margin-top: 0.5em;
+}
+
+.sidebar {
+  background-color: white;
+  border: solid black 2px;
+  box-shadow: -4px 7px #222A;
+  padding: 1em;
+}
+
+button, input[type=submit] {
+  border: solid black 2px;
+  border-radius: 0.5em;
+  background: none;
+  font-family: 'Permanent Marker';
+}
+
+input {
+  border: solid black 2px;
+}
+
+
